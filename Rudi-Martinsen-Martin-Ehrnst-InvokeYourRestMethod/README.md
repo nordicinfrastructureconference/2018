@@ -1,7 +1,6 @@
 # Invoke-{your}RestMethod
 
-Nordic Infrastructure Conference 2018
-[Link](http://nicconf.com/talks/invoke-yourrestmethod/) - conference link
+[Nordic Infrastructure Conference 2018](http://nicconf.com/talks/invoke-yourrestmethod/) - conference link
 
 ## Talk
 
@@ -15,3 +14,10 @@ No matter the platform, cloud or programming language API’s are the fundamenta
 * [SWAPI](https://swapi.co/) - Star wars API used in demo
 * [SUPPORTBEE](https://supportbee.com) - Ticketing / ITSM system used in demo
 * [Microsoft Cognitive Services | text analytics](https://azure.microsoft.com/en-us/services/cognitive-services/text-analytics/) - Used to perform sentiment and key phrase extraction for the ticket created
+
+## Speakers
+
+[Rudi Martinsen](http://rudimartinsen.com) - Blog link
+[Rudi Martinsen](https://www.linkedin.com/in/rudi-martinsen-a8b98122/) - LinkedIn
+[Martin Ehrnst](http://adatum.no) - Blog link
+[Martin Ehrnst](https://www.linkedin.com/in/martinehrnst/) - Blog link
