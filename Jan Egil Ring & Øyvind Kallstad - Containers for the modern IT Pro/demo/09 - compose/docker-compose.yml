@@ -1,0 +1,8 @@
+web:
+  image: 'gitlab/gitlab-ce:latest'
+  restart: always
+  container_name: gitlab
+proxy:
+  image: haproxy:1.8-alpine
+  container_name: proxy
+  restart: always
