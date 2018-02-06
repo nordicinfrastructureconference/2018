@@ -1,0 +1,18 @@
+{ 
+    "invitedUserDisplayName": "Display Name", 
+    "invitedUserEmailAddress": "alias@domain.com", 
+    "invitedUserMessageInfo": {
+        "messageLanguage": "en-US",
+        "ccRecipients": [
+             {
+                "emailAddress": {
+                    "name": "jan.vidar@elven.no",
+                    "address": "jan.vidar@elven.no"
+                 }
+             }
+        ],
+        "customizedMessageBody": "custom string"
+     },
+    "sendInvitationMessage": false, 
+    "inviteRedirectUrl": "string" 
+}
